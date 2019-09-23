@@ -1,6 +1,6 @@
 # ERFNET full network definition for Pytorch
-# Sept 2017
-# Eduardo Romera
+
+
 #######################
 
 import torch
